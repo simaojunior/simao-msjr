@@ -1,8 +1,8 @@
 # Simão Júnior
-### I'm currently on a team pioneering on digital onboarding in the on validation documents Tech industry in Brazil.
+#### I'm currently on a team pioneering on digital onboarding in the Tech industry in Brazil.
 
 ⤷ I'm a self-taught computer science learning
-who loves to learning new things not only about tech.
+who love to learn new things not only about tech.
 I like to generalize the learning process, to know everything about everything.
 
  <a aligh="left" href="mailto:simao.msjr@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/@ssimaojunior" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/simão-msjr" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>  
